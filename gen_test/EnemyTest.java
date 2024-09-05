@@ -13,6 +13,7 @@ class EnemyTest {
         enemy = new Enemy(5, 3);
         player = new Player("Hero", 0, 10);
     }
+    // hello
 
     @Test
     public void testInitialSetup() {
