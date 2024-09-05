@@ -1,0 +1,1 @@
+class to see the interactions in action. The main method in `Game.java` provides a simple simulation to demonstrate the functionalities of player movements and interactions with an enemy.
